@@ -1,0 +1,25 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Audiowide", sans-serif;
+}
+
+#main{
+    background-color: rgb(212, 235, 13);
+    margin-top: 10%;
+    margin-left: 38%;
+    height: 100px;
+    width: 350px;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 120px;
+    padding-top: 40px;
+}
+
+#myLabel{
+    justify-content: space-evenly;
+    color: hsl(0, 0%, 3%);
+}
